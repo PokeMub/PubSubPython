@@ -1,0 +1,6 @@
+{"codigo": 9, "emaill": "kiki@gmail.com", "status": "Enviado_Para_Analise", "itencodigo": "0", "nometitu": "kiki", "codcart": "10", "bandeira": "mastercard"}
+{"codigo": 18, "emaill": "kiki@gmail.com", "status": "Compra_Efetuada_Com_Sucesso!", "itencodigo": "0", "nometitu": "kiki", "codcart": "10", "bandeira": "mastercard"}
+{"codigo": 9, "emaill": "kiki@gmail.com", "status": "Enviado_Para_Analise", "itencodigo": "1", "nometitu": "hugo", "codcart": "10", "bandeira": "visa"}
+{"codigo": 18, "emaill": "kiki@gmail.com", "status": "Compra_Efetuada_Com_Sucesso!", "itencodigo": "1", "nometitu": "hugo", "codcart": "10", "bandeira": "visa"}
+{"codigo": 9, "emaill": "kiki@gmail.com", "status": "Enviado_Para_Analise", "itencodigo": "2", "nometitu": "lolo", "codcart": "7", "bandeira": "mastercard"}
+{"codigo": 18, "emaill": "kiki@gmail.com", "status": "Erro_Ao_Validar_O_Cartao", "itencodigo": "2", "nometitu": "lolo", "codcart": "7", "bandeira": "mastercard"}
